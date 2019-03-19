@@ -1,3 +1,3 @@
 博客搭建
 
-forked from  qiubaiying/qiubaiying.github.io
+forked from  [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)
